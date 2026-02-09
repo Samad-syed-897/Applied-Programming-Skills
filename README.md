@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Samad-syed-897/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Samad-syed-897/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Samad-syed-897/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Queue
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Samad-syed-897/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Samad-syed-897/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Samad-syed-897/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
