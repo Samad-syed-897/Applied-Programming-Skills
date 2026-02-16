@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Samad-syed-897/Applied-Programming-Skills/tree/master/0008-string-to-integer-atoi) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Samad-syed-897/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
